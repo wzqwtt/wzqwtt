@@ -1,4 +1,4 @@
-### Hi I'm ZongqinWang 👋
+### Hi I'm wzqwtt 👋
 
 <!--
 **ZongqinWang/ZongqinWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZongqinWang&count_private=true&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzqwtt&count_private=true&show_icons=true&theme=graywhite)
