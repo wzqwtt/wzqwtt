@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm ZongqinWang 👋
 
 <!--
 **ZongqinWang/ZongqinWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**About me:**
+- 🔭 I’m currently studying at NJAU
+- 🌱 I’m currently learning BigData & Machine Learning
+- 👯 I’m looking to collaborate on BigData & Machine Learning
+- 📫 How to reach me: <a href="mailto:1722249371@qq.com">1722249371@qq.com</a>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZongqinWang&count_private=true&show_icons=true&theme=graywhite)
